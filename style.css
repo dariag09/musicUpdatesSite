@@ -1,0 +1,35 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+/**/
+body {
+  background-color: maroon;
+}
+
+h1{
+  text-align:center;
+  font-family: "courier new";
+  color: #a67000;
+}
+
+h2{
+  text-align:center;
+  font-family: "courier new";
+  color: #bf9b30;
+}
+
+h4{
+  text-align:center;
+  font-family: "courier new";
+  color: #FFBF00;
+}
+
+div{
+  text-align:center;
+  color: #FFDC73;
+}
+
+ul{
+  color: #FFDC73;
+}
